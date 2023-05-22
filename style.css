@@ -11,6 +11,10 @@ body {
     margin: 0 auto;
 }
 
+a {
+  color: green; /* Set the color to blue */
+}
+
 h1 {
     font-size: 24px;
     color: white; /* Additional rule to ensure h1 text is white */
